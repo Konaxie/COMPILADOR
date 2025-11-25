@@ -71,7 +71,7 @@ print(z)
 print(z / 5)
 fim
 
-
+```python
 
 5. Conclusão
  
@@ -81,3 +81,4 @@ O desenvolvimento do compilador básico em Python permitiu aplicar na prática o
 Como trabalhos futuros, sugere-se expandir o compilador para incluir estruturas de controle (if, while), verificação de erros mais detalhada e geração de código intermediário, permitindo uma visão ainda mais completa do processo de tradução de linguagens 
 
 O desenvolvimento do compilador básico em Python permitiu aplicar na prática os conceitos fundamentais de compilação, como análise léxica, sintática e execução interpretada. Mesmo em sua forma simples, o projeto demonstra as principais etapas de um compilador real.
+
