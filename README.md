@@ -67,4 +67,10 @@ x = 10
 y = 20
 z = x + y * 2
 print(z)
+
 print(z / 5)
+
+5. Conclusão
+ 
+
+O desenvolvimento do compilador básico em Python permitiu aplicar na prática os conceitos fundamentais de compilação, como análise léxica, sintática e execução interpretada. Mesmo em sua forma simples, o projeto demonstra as principais etapas de um compilador real.
